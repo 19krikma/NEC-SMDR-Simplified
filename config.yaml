@@ -1,0 +1,14 @@
+#NEC Phone System Information
+RECV: 82 # Limit to 82 bytes for incoming information
+TS: 5 # Time Sleep
+STO: 300 # Socket Time Out when no data recieved
+DATA: [POT, POTA, PIN, ALB, BRD, PTRS, IVIN, ICM, IVOT, IVOTP, ITRS, SDTA, IDIN, IDOT] # Data type to look for when reciving from PBX
+
+SERVERS:
+  - name: SCHOOL1
+    host: 10.1.10.210
+    port: 2020
+  - name: SCHOOL2
+    host: 10.1.10.205
+    port: 2020
+
