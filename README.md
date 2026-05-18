@@ -6,9 +6,6 @@ to run certain duration instead of running continuously retrieving SMDR data. Th
  of how many servers it can track at once, I haven't tested the limits so feel free to explore that limit, I suspect the limit of how many servers it can track at once
  will come down to your computers hardware capabilities.</p>
 
-<h2>Disclaimer</h2>
-<p>Script was formatted by AI. Exception handling was improved by AI but was checked and approved by me.</p>
-
 <h2>SV9100 Setup</h2>
 <ul>
   <li>Login into SV9100</li>
@@ -30,3 +27,8 @@ to run certain duration instead of running continuously retrieving SMDR data. Th
   <li>Click - Home</li>
   <li>Click - Logout</li>
 </ul>
+
+
+
+<h2>Disclaimer</h2>
+<p>Script was formatted by AI. Exception handling was improved by AI but was checked and approved by me.</p>
