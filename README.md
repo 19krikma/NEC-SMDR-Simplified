@@ -6,6 +6,15 @@ to run certain duration instead of running continuously retrieving SMDR data. Th
  of how many servers it can track at once, I haven't tested the limits so feel free to explore that limit, I suspect the limit of how many servers it can track at once
  will come down to your computers hardware capabilities.</p>
 
+
+<h2>Features</h2>
+<ul>
+  <li>Pulls data off multiple SV9100 at once.</li>
+  <li>Creates folder for every SV9100 and creates CSV of data and logs raw data for detailed overview</li>
+  <li>Quits when idle for more than 5 mins</li>
+</ul>
+
+
 <h2>SV9100 Setup</h2>
 <ul>
   <li>Login into SV9100</li>
