@@ -14,7 +14,7 @@ from datetime import datetime
 import threading
 
 # Info
-NAME = "NEC SMDR"
+NAME = "NEC SMDR (Simplified)"
 VERSION = "1.0"
 
 # Settings
