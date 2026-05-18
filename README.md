@@ -20,6 +20,11 @@ to run certain duration instead of running continuously retrieving SMDR data. Th
  <li>Proper testing to find and fix bugs</li>
 </ul>
 
+<h2>Required Dependencies</h2>
+<ul>
+ <li>YAML</li>
+</ul>
+
 <h2>SV9100 Setup</h2>
 <ul>
   <li>Login into SV9100</li>
