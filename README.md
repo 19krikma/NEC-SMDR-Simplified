@@ -14,6 +14,11 @@ to run certain duration instead of running continuously retrieving SMDR data. Th
   <li>Quits when idle for more than 5 mins</li>
 </ul>
 
+<h2>To-Do</h2>
+<ul>
+ <li>Proper Packaging for easier deployment</li>
+ <li>Proper testing to find and fix bugs</li>
+</ul>
 
 <h2>SV9100 Setup</h2>
 <ul>
