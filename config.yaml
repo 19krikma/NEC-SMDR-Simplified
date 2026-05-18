@@ -4,6 +4,7 @@ TS: 5 # Time Sleep
 STO: 300 # Socket Time Out when no data recieved
 DATA: [POT, POTA, PIN, ALB, BRD, PTRS, IVIN, ICM, IVOT, IVOTP, ITRS, SDTA, IDIN, IDOT] # Data type to look for when reciving from PBX
 
+#Remove <> when filling in the information
 SERVERS:
   - name: <Any Name>
     host: <IP Address>
